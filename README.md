@@ -1,3 +1,4 @@
+<img width="1350" height="684" alt="Captura de tela 2026-06-08 212833" src="https://github.com/user-attachments/assets/fab2a5f4-7d80-4c4d-afcc-da624fd729c7" />
 # Trabalho---Banco-de-Dados
 Trabalho de modelagem de banco de dados DSM -1 (FATEC)
 
@@ -23,11 +24,11 @@ Aulas: Possui um identificador (Chave: numero de aulas), título. Se relaciona c
 
 *MODELAGEM CONCEITUAL:
 
-
-
+<img width="1350" height="684" alt="Captura de tela 2026-06-08 212833" src="https://github.com/user-attachments/assets/0ae560c9-df30-460a-aab3-1b4d63acd601" />
 
 *MODELAGEM LÓGICA:
 
+<img width="1271" height="856" alt="Captura de tela 2026-06-08 212332" src="https://github.com/user-attachments/assets/226b79be-22cb-41e4-acbd-5c33d4aa0493" />
 
 
 
