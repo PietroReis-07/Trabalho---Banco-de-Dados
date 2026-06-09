@@ -90,6 +90,40 @@ O sistema gerencia uma plataforma de cursos livres. Alunos se cadastram para ass
 
 *RELATÓRIOS:
 
+---Relatório-1: 
+Grade Curricular Completa. Junta 3 tabelas (cursos, instrutores e módulos), juntando o nome e sobrenome dos instrutores e apresentando de forma sequencial.
+
+---Relatório-2:
+Controle de Alunos Maiores de Idade. Realiza o cálculo da idade dos alunos, através da data de nascimento, e mostra apenas alunos com 18 anos ou mais.
+
+---Relatório-3:
+Ranking de Cursos Mais Populares. Cruza as tabelas Cursos e Matrículas, e conta quantas inscrições cada curso tem, para mostrar os cursos com mais inscrições, do maior para o menor.
+
+---Relatório-4:
+Lista de Alunos Formados e seus Certificados. Consulta as tabelas Certificados, Cursos, Alunos e Matrículas, para identificar os alunos que se formaram e em quais cursos, mostrando também o código de autenticidade.
+
+---Relatório-5:
+Mapeamento de Competências dos Instrutores. Mostra o nome dos instrutores e as suas especialidades.
+
+---Relatório-6:
+Faturamento Total Bruto por Curso. Cruza a tabela de cursos com as matrículas, para calcular quanto cada curso já faturou, mostrando apenas os cursos que tem algum lucro.
+
+---Relatório-7:
+Alunos com Desempenho Crítico. Filtra os alunos que já estão matriculados a um tempo considerável e estão com o progresso abaixo de 20%.
+
+---Relatório-8:
+Carga Horária Total por Professor. Calcula a soma da carga horária dos cursos produzidos pelos mesmos instrutores, e cálcula também a média de preço de seus cursos.
+
+---Relatório-9:
+Alunos Avançados em Cursos Específicos. Filtra os cursos que contenham as palavras chave presentes no LIKE, e mostra os alunos que estão com progresso superior a 50% nesses cursos.
+
+---Relatório-10:
+Alunos Sem Matrícula Ativa. Localiza os alunos que não realizarão nenhuma matrícula na plataforma.
+
+
+
+
+
 
 
 
