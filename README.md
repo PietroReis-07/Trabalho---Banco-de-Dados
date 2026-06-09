@@ -93,33 +93,52 @@ O sistema gerencia uma plataforma de cursos livres. Alunos se cadastram para ass
 ---Relatório-1: 
 Grade Curricular Completa. Junta 3 tabelas (cursos, instrutores e módulos), juntando o nome e sobrenome dos instrutores e apresentando de forma sequencial.
 
+<img width="1541" height="975" alt="R1" src="https://github.com/user-attachments/assets/5ddfa25f-366e-4373-aaa9-da84127d22d2" />
+
 ---Relatório-2:
 Controle de Alunos Maiores de Idade. Realiza o cálculo da idade dos alunos, através da data de nascimento, e mostra apenas alunos com 18 anos ou mais.
+
+<img width="1544" height="976" alt="R2" src="https://github.com/user-attachments/assets/fbbe2f18-2c95-43a7-9f44-b7b11c366850" />
 
 ---Relatório-3:
 Ranking de Cursos Mais Populares. Cruza as tabelas Cursos e Matrículas, e conta quantas inscrições cada curso tem, para mostrar os cursos com mais inscrições, do maior para o menor.
 
+<img width="1537" height="973" alt="R3" src="https://github.com/user-attachments/assets/7aac0e99-eead-4095-b703-3594d221ba31" />
+
 ---Relatório-4:
 Lista de Alunos Formados e seus Certificados. Consulta as tabelas Certificados, Cursos, Alunos e Matrículas, para identificar os alunos que se formaram e em quais cursos, mostrando também o código de autenticidade.
+
+<img width="1537" height="967" alt="R4" src="https://github.com/user-attachments/assets/8d1d11db-b28c-4f64-828f-c8a66c05d30b" />
 
 ---Relatório-5:
 Mapeamento de Competências dos Instrutores. Mostra o nome dos instrutores e as suas especialidades.
 
+<img width="1539" height="972" alt="R5" src="https://github.com/user-attachments/assets/8d065632-48f7-4a82-91a3-a49af2e500b0" />
+
 ---Relatório-6:
 Faturamento Total Bruto por Curso. Cruza a tabela de cursos com as matrículas, para calcular quanto cada curso já faturou, mostrando apenas os cursos que tem algum lucro.
+
+<img width="1538" height="971" alt="R6" src="https://github.com/user-attachments/assets/d1b2259e-5109-4b93-8a06-20283480b4df" />
 
 ---Relatório-7:
 Alunos com Desempenho Crítico. Filtra os alunos que já estão matriculados a um tempo considerável e estão com o progresso abaixo de 20%.
 
+<img width="1539" height="969" alt="R7" src="https://github.com/user-attachments/assets/c184ec84-23fd-4c57-a2b0-0633d205c786" />
+
 ---Relatório-8:
 Carga Horária Total por Professor. Calcula a soma da carga horária dos cursos produzidos pelos mesmos instrutores, e cálcula também a média de preço de seus cursos.
+
+<img width="1541" height="970" alt="R8" src="https://github.com/user-attachments/assets/2cac2093-5164-4122-a8a4-915e54ec2dea" />
 
 ---Relatório-9:
 Alunos Avançados em Cursos Específicos. Filtra os cursos que contenham as palavras chave presentes no LIKE, e mostra os alunos que estão com progresso superior a 50% nesses cursos.
 
+<img width="1540" height="969" alt="R9" src="https://github.com/user-attachments/assets/073d17a0-ce2c-4ae3-a240-071fe9f34e2b" />
+
 ---Relatório-10:
 Alunos Sem Matrícula Ativa. Localiza os alunos que não realizarão nenhuma matrícula na plataforma.
 
+<img width="1538" height="968" alt="R10" src="https://github.com/user-attachments/assets/5069ff44-5696-4e5d-ba8a-31580c68b819" />
 
 
 
