@@ -7,7 +7,7 @@ Plataforma Web de Ensino (EduTech)
 
 O sistema gerencia uma plataforma de cursos livres. Alunos se cadastram para assistir aulas de diferentes instrutores. Cada curso pertence a uma categoria e, ao concluir todas as exigências de um curso, o aluno recebe um certificado exclusivo de conclusão.
 
-ENTIDADES:
+-Entidades:
 
 Instrutor: Possui um identificador (Chave: id_instrutor), nome completo (Composto: Nome e Sobrenome), e-mail e suas especialidades (Multivalorado). Se relaciona com: Curso (1:N).
 
@@ -28,6 +28,15 @@ Aulas: Possui um identificador (Chave: numero de aulas), título. Se relaciona c
 *MODELAGEM LÓGICA:
 
 <img width="1271" height="856" alt="Captura de tela 2026-06-08 212332" src="https://github.com/user-attachments/assets/226b79be-22cb-41e4-acbd-5c33d4aa0493" />
+
+
+*MODELAGEM FÍSICA:
+
+-Criação das tabelas:
+
+
+
+-Inserção de dados:
 
 
 
