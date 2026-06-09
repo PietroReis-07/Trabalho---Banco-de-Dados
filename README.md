@@ -23,6 +23,11 @@ Aulas: Possui um identificador (Chave: numero de aulas), título. Se relaciona c
 
 *MODELAGEM CONCEITUAL:
 
-<img width="1687" height="803" alt="Captura de tela 2026-06-08 165720" src="https://github.com/user-attachments/assets/abf90310-8238-4eb3-b66a-9addb87b2560" />
+
+
+
+*MODELAGEM LÓGICA:
+
+
 
 
