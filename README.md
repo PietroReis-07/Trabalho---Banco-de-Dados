@@ -21,9 +21,11 @@ Certificado: Possui um identificador (Chave: id_certificado), código de autenti
 
 Aulas: Possui um identificador (Chave: numero de aulas), título. Se relaciona com: Curso (1:N).
 
+
 *MODELAGEM CONCEITUAL:
 
 <img width="1350" height="684" alt="Captura de tela 2026-06-08 212833" src="https://github.com/user-attachments/assets/0ae560c9-df30-460a-aab3-1b4d63acd601" />
+
 
 *MODELAGEM LÓGICA:
 
@@ -66,6 +68,19 @@ Tabela-Matrículas:
 Tabela-Certificados:
 <img width="1544" height="794" alt="INSERT-CERTIFICADOS" src="https://github.com/user-attachments/assets/44dc6df4-ba0f-40a1-a660-d3ad61b67682" />
 
+
+*CRUD:
+
+---Create:
+
+
+---Read:
+
+
+---Update:
+
+
+---Delete:
 
 
 
