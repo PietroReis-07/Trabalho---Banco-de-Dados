@@ -22,14 +22,32 @@ O sistema gerencia uma plataforma de cursos livres. Alunos se cadastram para ass
 -Módulos: Possui um identificador (Chave: id_modulo), título, ordem. Se relaciona com: Curso (1:N).
 
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 *MODELAGEM CONCEITUAL:
 
 <img width="1401" height="803" alt="DER" src="https://github.com/user-attachments/assets/6f560cd6-303c-40ee-ac4c-b2df318c43f5" />
 
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 *MODELAGEM LÓGICA:
 
 <img width="1333" height="833" alt="MODELO-LÓGICO" src="https://github.com/user-attachments/assets/b3285ff0-7a42-444f-a3ba-0560ee2f31c2" />
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 *MODELAGEM FÍSICA:
@@ -69,6 +87,12 @@ O sistema gerencia uma plataforma de cursos livres. Alunos se cadastram para ass
 <img width="1544" height="794" alt="INSERT-CERTIFICADOS" src="https://github.com/user-attachments/assets/44dc6df4-ba0f-40a1-a660-d3ad61b67682" />
 
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 *CRUD:
 
 ---Create:
@@ -86,6 +110,12 @@ O sistema gerencia uma plataforma de cursos livres. Alunos se cadastram para ass
 ---Delete:
 
 <img width="1540" height="654" alt="DELETE" src="https://github.com/user-attachments/assets/10540b20-d053-4c48-94a4-a2a956011fe0" />
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 *RELATÓRIOS:
