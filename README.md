@@ -24,12 +24,12 @@ Aulas: Possui um identificador (Chave: numero de aulas), título. Se relaciona c
 
 *MODELAGEM CONCEITUAL:
 
-<img width="1350" height="684" alt="Captura de tela 2026-06-08 212833" src="https://github.com/user-attachments/assets/0ae560c9-df30-460a-aab3-1b4d63acd601" />
+<img width="1401" height="803" alt="DER" src="https://github.com/user-attachments/assets/6f560cd6-303c-40ee-ac4c-b2df318c43f5" />
 
 
 *MODELAGEM LÓGICA:
 
-<img width="1271" height="856" alt="Captura de tela 2026-06-08 212332" src="https://github.com/user-attachments/assets/226b79be-22cb-41e4-acbd-5c33d4aa0493" />
+<img width="1333" height="833" alt="MODELO-LÓGICO" src="https://github.com/user-attachments/assets/b3285ff0-7a42-444f-a3ba-0560ee2f31c2" />
 
 
 *MODELAGEM FÍSICA:
@@ -73,14 +73,23 @@ Tabela-Certificados:
 
 ---Create:
 
+<img width="1542" height="660" alt="INSERT" src="https://github.com/user-attachments/assets/7c367f05-80ab-41dc-8f95-7045062a0a4c" />
 
 ---Read:
 
+<img width="1542" height="727" alt="READ" src="https://github.com/user-attachments/assets/9864ed98-6de5-40c0-ab69-6df186d4462a" />
 
 ---Update:
 
+<img width="1540" height="683" alt="UPDADE" src="https://github.com/user-attachments/assets/f9065db1-845b-429a-9bc1-d8c5b2616e1c" />
 
 ---Delete:
+
+<img width="1540" height="654" alt="DELETE" src="https://github.com/user-attachments/assets/10540b20-d053-4c48-94a4-a2a956011fe0" />
+
+
+*RELATÓRIOS:
+
 
 
 
