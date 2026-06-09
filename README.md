@@ -1,4 +1,3 @@
-<img width="1350" height="684" alt="Captura de tela 2026-06-08 212833" src="https://github.com/user-attachments/assets/fab2a5f4-7d80-4c4d-afcc-da624fd729c7" />
 # Trabalho---Banco-de-Dados
 Trabalho de modelagem de banco de dados DSM -1 (FATEC)
 
